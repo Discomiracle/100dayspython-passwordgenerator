@@ -10,7 +10,7 @@ The objective is to take the inputs from the user to these questions and then ge
 https://appbrewery.github.io/python-day5-demo/
 
 ### Easy Version
-Generate the password in sequence. Letters, then symbols, then numbers. If the user wants
+Generate the password in sequence. Letters, then symbols, then numbers.
 
 
 ### Hard Version
